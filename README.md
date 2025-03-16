@@ -7,8 +7,9 @@
 ```
 📂 project_root/
 ├── 📂 notebooks/                  # Jupyter notebooks for merging and feature engineering
-│   ├── task_2_merge.ipynb       # Notebook for dataset merging
-│   ├── feature_engineering.ipynb # Notebook for feature engineering
+│   ├── DataAugmentation.ipynb       # Notebook for dataset merging
+│   ├── Merging_Datasets_with_Transitive_Properties.ipynb # Notebook for feature engineering
+|   ├── Part3_Ml_and_Bonus_Colab.ipynb
 │
 ├── 📂 initial_dataset/           # Raw datasets provided
 │   ├── customer_transactions_augmented.csv
@@ -18,9 +19,8 @@
 ├── 📂 derived_datasets/  
 |   ├── customer_transactions_augmented.csv       # Processed datasets
 │   ├── merged_customer_data.csv  # Output after merging
-│   ├── final_customer_data.csv   # Feature-engineered dataset
-│
-├── 📂 models/                    # Machine learning models from the bonus challenge
+│   ├── final_customer_data_group15.csv   # Feature-engineered dataset
+│                 
 │
 ├── README.md                     # Documentation
 ```
@@ -42,8 +42,9 @@ pip install pandas numpy scikit-learn jupyter
 4. Run `feature_engineering.ipynb` to generate engineered features.
 
 ## Video Walkthrough & Documentation
-- **Document Link:** [Insert Link Here]
-- **Video Walkthrough:** [Insert Video Link Here]
+- **Document Link:** https://docs.google.com/document/d/1EvFQiVNZxP1QEkyiCeRiEzqeGiWneJyybneeH71aP5Y/edit?usp=sharing
+- **Video Walkthrough:** https://vimeo.com/1066390812?share=copy
+
 
 
 
