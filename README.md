@@ -4,8 +4,9 @@
 This project demonstrates a complete data preprocessing pipeline suitable for a real-world machine learning project, including data augmentation, merging datasets using transitive properties, feature engineering, data consistency checks, and predictive modeling using Linear Regression and Random Forest algorithms.
 
 ## Video Walkthrough & Documentation
-- **Document Link:** https://docs.google.com/document/d/1EvFQiVNZxP1QEkyiCeRiEzqeGiWneJyybneeH71aP5Y/edit?usp=sharing
-- **Video Walkthrough:** https://vimeo.com/1066390812?share=copy
+- **Document Link:** [Google Doc](https://docs.google.com/document/d/1EvFQiVNZxP1QEkyiCeRiEzqeGiWneJyybneeH71aP5Y/edit?usp=sharing)
+- **Video Walkthrough:** [Vimeo Video](https://vimeo.com/1066390812?share=copy)
+
 
 
 ## Project Structure
